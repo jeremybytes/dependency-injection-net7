@@ -30,6 +30,7 @@ What you will learn:
 * Static Objects: [Mocking Current Time with a Simple Time Provider](https://jeremybytes.blogspot.com/2015/01/mocking-current-time-with-time-provider.html)  
 
 **Additional Resources**  
+* Steve Smith: [New is Glue](https://ardalis.com/new-is-glue/)  
 * [jeremybytes.com/Demos.aspx#DI](http://www.jeremybytes.com/Demos.aspx#DI)
 
 ---
